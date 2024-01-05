@@ -1,6 +1,5 @@
 # API-TP-2-et-3-
-These are the answers for the questions part, the "Creating an API with FastAPI" i done in the "TP2-3 API bouchrabenali" folder that I deposited:
-# EPF-API-TP
+These are the answers for the questions part, the "Creating an API with FastAPI" i done in the "TP2-3 API bouchrabenali" folder that I deposited.
 
 - **Question 1:** _Which Python library/framework is often used to create fast, simple REST APIs?_
 
